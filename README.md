@@ -36,7 +36,7 @@ Access the hosted application:
 
 
 - Power Output by Fuel Type
-- 
+  
   <img width="784" height="584" alt="image" src="https://github.com/user-attachments/assets/dc935f8e-6f1b-4dd4-b5cb-401d81bb2e0b" />
 
 - Displacement vs. Price (with trend line)
