@@ -34,7 +34,9 @@ Access the hosted application:
 - Power vs. Torque Segmented by Body type
   <img width="784" height="584" alt="image" src="https://github.com/user-attachments/assets/e1f442c8-5181-4d04-b436-bca53e6157d3" />
 
+
 - Power Output by Fuel Type
+- 
   <img width="784" height="584" alt="image" src="https://github.com/user-attachments/assets/dc935f8e-6f1b-4dd4-b5cb-401d81bb2e0b" />
 
 - Displacement vs. Price (with trend line)
