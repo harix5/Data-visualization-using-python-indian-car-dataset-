@@ -19,7 +19,7 @@ file = st.sidebar.file_uploader("Upload CSV", type=["csv"])
 if file is not None:
     df = pd.read_csv(file)
 else:
-    df = pd.read_csv(r"C:\Users\saiku\Downloads\Data visualization - Using python\car_dataset.csv")
+    df = pd.read_csv("car_dataset.csv")
 
 # ----------------------
 # Price cleaning (inline)
@@ -275,3 +275,4 @@ st.dataframe(df_work.head(200))
 
 csv = df_work.to_csv(index=False).encode('utf-8')
 st.download_button("Download CSV", csv, "filtered_data.csv", "text/csv")
+
